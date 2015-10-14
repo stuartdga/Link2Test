@@ -1,0 +1,11 @@
+﻿{
+  "linksessionid": "",
+  "employerguid": "2aa7c0a5-63e1-411a-a2a5-f7f26ad61f3f",
+  "ssn": "999-99-8745",
+  "apiurl": "https://partner-api.unumconnect.com/link/v1/",
+  "benefits": [
+		{"id": "WL", "name": "Whole Life"},
+		{"id": "GCI", "name": "Group Critical Illness"},
+		{"id": "GACC", "name": "Group Accident"}
+	]
+}
